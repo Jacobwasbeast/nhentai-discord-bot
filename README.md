@@ -1,2 +1,2 @@
 # nhentai-discord-bot
-I have found much use out of this.
+<h2>N-hentai Discord Bot-<br> Commands:<br>&dt(amount)<br> ex\\<br> &dt20<br> post 20 doujins from N-hentai</h2>
