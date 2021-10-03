@@ -53,7 +53,8 @@ async def on_message(message):
                                     tags) or "bdsm" in str(tags) or "fart" in str(tags) or "vomit" in str(
                                     tags) or "scat" in str(tags) or "urination" in str(tags) in str(
                                     tags) or "gore" in str(tags) or "pegging" in str(tags) or "dickgirl on male" in str(
-                                    tags) or "gag" in str(tags) or "bondage" in str(tags) or "yaoi" or "lolicon" in str(
+                                    tags) or "gag" in str(tags) or "bondage" in str(tags) or "yaoi" in str(
+                                    tags) or "lolicon" in str(
                                     tags) or "males only" in str(tags):
                                 rat = 1
                             if rat == 0:
